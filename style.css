@@ -1,0 +1,32 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+.human{
+    font-size: 23px;
+width: 30%;
+border-radius: 30px;
+}
+body{
+    background-image: url("backgroundhome.jpg");
+    background-position: center;
+    background-size: cover;
+}
+canvas{
+    border: 2px solid black;
+    margin-top: 50px;
+}
+#back{
+    float: right ;
+}
+a{
+    color: rgb(255, 0, 0);
+}
